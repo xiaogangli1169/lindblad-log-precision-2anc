@@ -1,2 +1,2 @@
 # lindblad-log-precision-2anc
-    This is the data file about our Physical Review Letters (PRL) journal paper: Lindbladian simulation with logarithmic precision scaling via two  ancillas.
+    The Matlab program is compatible with ​​MATLAB R2022b​​ and is designed to simulate a 5-qubit transverse-field Ising model with ​​periodic boundary conditions​​, where the first qubit is subject to ​​Amplitude Damping (AD) noise​​. The dataset corresponding to this program is: miti_Ising_OQS4_sp5n500gam1p5rho1O1_NMnoshots. This program is adapted from the paper "​​Lindbladian simulation with logarithmic precision scaling via two ancillas​​" by Wenjun Yu, Xiaogang Li, Qi Zhao, and Xiao Yuan, published in Physical Review Letters.
